@@ -8,6 +8,6 @@
 
 #### Uses Web Speech API to provide audio pronunciation for words.
 
-## [Click Here For DEMO](https://nurullahay.github.io/memoryGame/)
+## [Click Here For DEMO](https://nurullahay.github.io/TurkishChallenge/)
 
 ![LearnTurkish](https://user-images.githubusercontent.com/91831803/234676538-45af81ae-8e82-4d70-9a65-ac357c04ea00.gif)
